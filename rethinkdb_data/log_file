@@ -1,0 +1,15 @@
+2015-07-08T16:49:33.376673000 0.224598s notice: Recursively removing directory /Volumes/DATA/Users/riza/Developer/ElixirProject/phoenix_chat/rethinkdb_data/tmp
+2015-07-08T16:49:33.377764000 0.225692s notice: Initializing directory /Volumes/DATA/Users/riza/Developer/ElixirProject/phoenix_chat/rethinkdb_data
+2015-07-08T16:49:33.377840000 0.225765s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Volumes/DATA/Users/riza/Developer/ElixirProject/phoenix_chat/rethinkdb_data' did not already exist or is empty.)
+2015-07-08T16:49:33.377864000 0.225788s notice: Running rethinkdb 2.0.3 (CLANG 6.1.0 (clang-602.0.53))...
+2015-07-08T16:49:33.381976000 0.229901s notice: Running on Darwin 14.3.0 x86_64
+2015-07-08T16:49:33.382028000 0.229952s notice: Loading data from directory /Volumes/DATA/Users/riza/Developer/ElixirProject/phoenix_chat/rethinkdb_data
+2015-07-08T16:49:34.830928000 1.678896s info: Automatically using cache size of 100 MB
+2015-07-08T16:49:34.830938000 1.678906s warn: Cache size does not leave much memory for server and query overhead (available memory: 765 MB).
+2015-07-08T16:49:34.830943000 1.678911s warn: Cache size is very low and may impact performance.
+2015-07-08T16:49:34.831532000 1.679500s notice: Listening for intracluster connections on port 29015
+2015-07-08T16:49:34.832939000 1.680907s notice: Listening for client driver connections on port 28015
+2015-07-08T16:49:34.833051000 1.681019s notice: Listening for administrative HTTP connections on port 8080
+2015-07-08T16:49:34.833052000 1.681020s notice: Listening on addresses: 127.0.0.1, ::1
+2015-07-08T16:49:34.833056000 1.681023s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-07-08T16:49:34.833059000 1.681027s notice: Server ready, "Rizas_iMac_1fk" 63b9255d-cc2c-44b0-9ddf-d376f7737d75
